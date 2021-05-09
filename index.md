@@ -1,5 +1,6 @@
 ---
-title:Opsommings
+title: Opsommings
+remote_theme: mmistakes/minimal-mistakes
 ---
 # 2021
 ## Kwartaal 2
