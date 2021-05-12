@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Opsommings"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Waldo Lemmer"
 description              : "My opsommings"
-url                      : https://glibg10b.github.io
+url                      : https://glibg10b.github.io/opsommings
 baseurl                  : "/opsommings"
 repository               : "glibg10b/opsommings"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
