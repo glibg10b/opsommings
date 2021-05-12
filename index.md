@@ -1,4 +1,4 @@
 ---
 title: "Opsommings"
 ---
-# [Graad 11](/gr11/)
+# [Graad 11](/opsommings/gr11/)
