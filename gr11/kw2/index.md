@@ -5,3 +5,4 @@ title: "Opsommings/Graad 11/Kwartaal 2"
 ## [Kwartaal 2](/opsommings/gr11/kw2/)
 ### [Afrikaans](/opsommings/gr11/kw2/afr)
 ### [Fisiese wetenskappe](/opsommings/gr11/kw2/fw)
+### [Wiskunde](/opsommings/gr11/kw2/wisk)
