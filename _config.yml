@@ -189,7 +189,7 @@ incremental: false
 
 
 # Markdown Processing
-# kramdown:
+commonmark:
 #   input: GFM
 #   hard_wrap: false
 #   auto_ids: true
