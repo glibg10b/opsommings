@@ -12,11 +12,12 @@ Tipes funksies:
   - Kwadraties (parabool)
   - Hiperbool
   - Eksponensieël
+
 ---
 
 # Teorie:
-x-afsnit:
-  Ook genoem nulpunt/wortel
+x-afsnit
+  : Ook genoem nulpunt/wortel
 
 # Vorme:
 - `m`: helling
