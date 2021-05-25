@@ -132,7 +132,7 @@ x-afsnit
 # Bepaal vergelyking:
 ## Lineêr (reguitlyn)
 - Om `m` uit te werk:
-  - `A` || `B`:
+  - `A` \|\| `B`:
     - `m`<sub>`A`</sub>` = m`<sub>`B`</sub>
   - `A` ∟ `B`:
     - `m`<sub>`A`</sub>` × m`<sub>`B`</sub>` = -1`
