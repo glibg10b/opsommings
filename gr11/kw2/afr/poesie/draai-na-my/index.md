@@ -83,3 +83,58 @@ title: "Opsommings/Graad 11/Kwartaal 2/Afrikaans/Poësie/Draai na my"
 - Aanhoudend, sonder meegevoel
 - Die grond is **hardnekkig** teen die mens
   - Gee nie die mens sy sin nie
+
+# Langvraag
+## Hoofpunte
+- "Draai na my"
+  - Liriese vrye vers
+  - Spreker beskryf dae wanneer sy beminde alleen voel
+- Klimaks in kort strofe
+  - Hy sê hy bied hawe en vastigheid wat sy op sulke dae voel sy kort
+- Eerste strofe
+  - Spreker beskryf dae wanneer die wêreld "onkant" is
+  - Wanneer beminde voel dat selfs die aardbodem hom teen haar verset en sy geen 
+    meelewing ervaar nie
+  - Son verdof agter miswolke
+  - Alle verhoudings is wanstaltig (kompleks en misvorm)
+- Tweede strofe
+  - Spreker fokus op geliefde se onmiddelike lewenskrisisse
+  - Wanneer vriende seermaak en daar niemand is om haar geborge te laat voel 
+    nie
+  - Wanneer sy bewus raak van sloping wat tyd meebring, 
+    ligaamlike verhoudings + op geestelike vlak verlies van: 
+    **onbevangenheid**, **spontaneïteit**, **vrymoedigheid**,  **lewensvreugde**
+- Derde strofe
+  - Spanning opgelos
+  - Gedig se hoogtepunt
+  - Spreker aan beminde: sy moet onthou dat hy haar veilige hawe is want sy  
+    liefde bly onveranderd (word nie deur tyd en omstandighede omgesloop of 
+    afgetakel)
+- Slot
+  - Verklaar titel van gedig, daarom geslaagde beeld
+
+## Opsomming
+"Draai na my" is 'n **liriese vrye vers** waar **die spreker die dae wanneer sy 
+beminde alleen voel beskryf**. 
+
+Die **klimaks is in die kort strofe**, waar **die spreker sê dat hy die hawe wat 
+sy op sulke dae kort, bied**.
+
+In die **eerste strofe** **beskryf die spreker die dae wanneer die wêreld 
+"onkant" is**. **Dae waarop die beminde voel dat selfs die aardbodem hom teen 
+haar verset en sy geen meelewing ervaar nie**. Dae **wanneer die son agter 
+miswolke verdof** en **alle verhoudings wanstaltig (kompleks en misvorm) is**.
+
+In die **tweede strofe** **fokus die spreker op die geliefde se onmiddelike 
+lewenskrissise**. **Dae waarop vriende seermaak en daar niemand is om haar 
+geborge te laat voel nie**. Dae waarop **sy bewus raak van die sloping wat tyd 
+meebring**, naamlik **ligaamlike verhoudings** en op **geestelike vlak** die 
+**verlies** van **onbevangenheid**, **spontaneïteit**, **vrymoedigheid** en 
+**lewensvreugde**.
+
+Die **derde strofe** is die **hoogtepunt** waar die **spanning opgelos** word en 
+die **spreker aan die beminde sê dat sy moet onthou dat hy haar veilige hawe 
+is**, want *sy liefde bly onveranderd*. Dit word **nie deur tyd en omstandighede 
+omgesloop of afgetakel nie**.
+
+Die **slot** **verklaar die titel** van die gedig, daarom is dit 'n **geslaagde beeld**.
